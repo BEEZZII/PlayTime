@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
-author 'NMT Studios'
-description 'NMT Studios On Top'
+author 'BEZZI'
+description 'Simple PlayTime script with discord messages'
 
 client_scripts {
     'client.lua'
